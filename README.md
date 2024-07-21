@@ -37,32 +37,6 @@ Frontend Setup:
 
 3.Start the frontend server: npm run dev
 
-Project Structure
-AI-Content-Summarization-Tool/
-├── backend/
-│   ├── node_modules/
-│   ├── routes/
-│   │   └── analyze.js
-│   ├── .env
-│   ├── index.js
-│   ├── package.json
-│   └── README.md
-└── frontend/
-    ├── node_modules/
-    ├── public/
-    ├── src/
-    │   ├── components/
-    │   │   ├── UploadForm.js
-    │   │   └── SummaryDisplay.js
-    │   ├── pages/
-    │   │   └── index.js
-    │   ├── styles/
-    │   │   └── Home.module.css
-    │   ├── .env.local
-    │   ├── package.json
-    │   ├── README.md
-    │   └── next.config.js
-
 Detailed Steps:
 
 Backend (Node.js with AI Integration)
